@@ -14,5 +14,5 @@ To set up the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <repository-name>
+   git clone https://github.com/Locked-Cloud/email-otp-verification.git
+   cd email-otp-verification
